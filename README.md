@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryan-Splotchy
+- 👋 Hi, I’m Ryan Shelton although a certain few might know me as Splotchy..
 - 👀 I’m interested in... all things Software Engineering.
 - 🌱 I’m currently learning... Java with more items of varying nature.
 - 💞️ I’m looking to collaborate on anything...(if i may be of use, that is.)
